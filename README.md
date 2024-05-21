@@ -1,9 +1,11 @@
-# Stock-Prediction
-Here's a comprehensive README for your project:
+
+
+
+
+# Stock Trend Prediction
 
 ---
 
-# Stock Trend Prediction
 
 This project leverages an LSTM (Long Short-Term Memory) neural network to predict stock price trends based on historical data. Users can input a stock ticker symbol, and the app retrieves historical stock data from Yahoo Finance. It preprocesses the data, scales it, and uses the LSTM model to predict future stock prices. The app visualizes both the original and predicted stock prices, providing an intuitive interface for analyzing stock trends.
 
